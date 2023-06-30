@@ -58,7 +58,9 @@ address{
 .recolor{
   color:blueviolet !important;
 }*/
+
 iframe{
   position: flex;
   justify-content: center;
+  margin: 0 auto;
 }
