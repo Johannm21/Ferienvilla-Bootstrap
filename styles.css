@@ -53,3 +53,7 @@ address{
   justify-content: center;
   text-align: center;
 }
+
+.recolor{
+  color:blueviolet !important;
+}
