@@ -47,3 +47,9 @@ h1 {
   text-align: center;
   text-decoration: solid;
 }
+
+address{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
